@@ -16,6 +16,7 @@ int main(){
 	printf("hello git!\n");
 	printf("Soma: %d\n", soma(2,2));
 	printf("Subtração: %d\n", subtrai(2,2));
-	printf("Multiplicação: %d\n", multiplica(2,2)); 
+	printf("Multiplicação: %d\n", multiplica(2,2));
+	printf("Divisão: %d\n", dividi(2,2)); 
 
 }
